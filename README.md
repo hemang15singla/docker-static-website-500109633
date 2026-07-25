@@ -203,25 +203,25 @@ It displays detailed configuration and metadata about a Docker container.
 
 ## Docker Build
 
-![Docker Build](screenshots/screenshot01-docker-build.png)
+![Docker Build](screenshots/01-docker-build.png)
 
 ---
 
 ## Running Container
 
-![Running Container](screenshots/screenshot02-container-running.png)
+![Running Container](screenshots/02-container-running.png)
 
 ---
 
 ## Website Output
 
-![Website](screenshots/screenshot03-home-page.png)
+![Website](screenshots/03-home-page.png)
 
 ---
 
 ## Docker Inspect
 
-![Docker Inspect](screenshots/screenshot04-docker-inspect.png)
+![Docker Inspect](screenshots/04-docker-inspect.png)
 
 ---
 
