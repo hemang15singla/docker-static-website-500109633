@@ -26,9 +26,7 @@ https://github.com/hemang15singla/docker-static-website-500109633
 
 # Screen Recording
 
-**Google Drive / OneDrive Link**
-
-(Paste your recording link here after uploading the video.)
+https://drive.google.com/file/d/1wxAdGueynTajRx-ChLBvH8nh9omhKb9U/view?usp=drivesdk
 
 ---
 
